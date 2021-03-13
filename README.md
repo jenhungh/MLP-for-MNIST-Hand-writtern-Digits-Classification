@@ -4,7 +4,7 @@
 (3) Customize the # of neurons, # of layers, and activation functions in the main function   
   
 The Training Process:   
-![result](results/result.png)  
+![result](plos/training.png)  
   
 The Testing Result:  
 Test Loss of the MLP on the 10000 test images: 0.044075658928084294  
