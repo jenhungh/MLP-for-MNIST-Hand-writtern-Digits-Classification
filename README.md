@@ -3,5 +3,4 @@
 (2) Loss: Soft-max Cross-Entropy Loss  
 (3) Customize the # of neurons, # of layers, and activation functions in  
 
-![GitHub Logo](/Plots/lr = 0.01.png)
-Format: ![Alt Text](url)
+![GitHub Logo](/Plots/ lr = 0.01.png)
